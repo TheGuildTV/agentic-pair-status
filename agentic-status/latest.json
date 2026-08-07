@@ -1,10 +1,10 @@
 {
-    "updatedAt":  "2026-08-07T17:26:03.8643646Z",
+    "updatedAt":  "2026-08-07T17:26:57.7205672Z",
     "sessionId":  "SYSTEM_LIVE_001",
     "iteration":  1,
-    "state":  "RETURN_TO_GPT_STARTED",
-    "stage":  "RETURN_TO_GPT_STARTED",
-    "code":  "RETURN_TO_GPT_STARTED",
-    "message":  "Goal 8 focus, paste, and one Return sequence starting.",
-    "needsHuman":  false
+    "state":  "STOPPED_ERROR",
+    "stage":  "RETURN_TO_GPT",
+    "code":  "GOAL8_FOCUS_FAILED",
+    "message":  "Existing Goal 8 focus protocol could not find the canonical Brave target; no paste or Return was attempted.",
+    "needsHuman":  true
 }
