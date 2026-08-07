@@ -1,1 +1,2 @@
 {"updatedAt":"2026-08-07T14:33:16.1611209Z","sessionId":"GITHUB_SIDECHANNEL_TEST_001","iteration":0,"state":"SIDECHANNEL_TEST","stage":"LIVE_WRITE","code":"SIDECHANNEL_TEST_OK","message":"Agentic Pair GitHub side-channel test","needsHuman":false}
+{"updatedAt":"2026-08-07T14:49:28.6715639Z","sessionId":"SYSTEM_LIVE_001","iteration":0,"state":"WAITING_FOR_DIRECTOR","stage":"ARMED","code":"SYSTEM_HARNESS_ARMED","message":"One supervised one-cycle system harness is armed.","needsHuman":false}
