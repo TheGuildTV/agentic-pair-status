@@ -1,10 +1,10 @@
 {
-    "updatedAt":  "2026-08-07T17:25:16.5023140Z",
+    "updatedAt":  "2026-08-07T17:25:36.7422517Z",
     "sessionId":  "SYSTEM_LIVE_001",
     "iteration":  1,
-    "state":  "WORKER_COMPLETE",
-    "stage":  "WORKER_COMPLETE",
-    "code":  "WORKER_COMPLETE",
-    "message":  "Controlled Codex Worker completed; exact SYSTEM_LIVE_001_WORKER_TEST.txt verified.",
+    "state":  "STATUS_PUBLISHED",
+    "stage":  "STATUS_PUBLISHED",
+    "code":  "STATUS_PUBLISHED",
+    "message":  "Worker completion status published to the GitHub side-channel.",
     "needsHuman":  false
 }
