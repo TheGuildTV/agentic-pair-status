@@ -1,10 +1,10 @@
 {
-    "updatedAt":  "2026-08-07T17:16:12.1198606Z",
+    "updatedAt":  "2026-08-07T17:23:10.4009788Z",
     "sessionId":  "SYSTEM_LIVE_001",
     "iteration":  1,
-    "state":  "STOPPED_ERROR",
-    "stage":  "WORKER_START",
-    "code":  "CONTROLLED_WORKER_PREFLIGHT_FAILED",
-    "message":  "Existing controlled Worker/Codex path requires goal7/controlled-workspace-write and a clean tree; no Worker started.",
-    "needsHuman":  true
+    "state":  "DIRECTOR_BRIEF_RECEIVED",
+    "stage":  "DIRECTOR_BRIEF_SAVED",
+    "code":  "DIRECTOR_BRIEF_SAVED",
+    "message":  "Saved Director brief resumed for one controlled Worker cycle.",
+    "needsHuman":  false
 }
