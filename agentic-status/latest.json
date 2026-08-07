@@ -1,10 +1,10 @@
 {
-    "updatedAt":  "2026-08-07T17:23:10.4009788Z",
+    "updatedAt":  "2026-08-07T17:25:04.5673774Z",
     "sessionId":  "SYSTEM_LIVE_001",
     "iteration":  1,
-    "state":  "DIRECTOR_BRIEF_RECEIVED",
-    "stage":  "DIRECTOR_BRIEF_SAVED",
-    "code":  "DIRECTOR_BRIEF_SAVED",
-    "message":  "Saved Director brief resumed for one controlled Worker cycle.",
+    "state":  "WORKER_STARTED",
+    "stage":  "WORKER_STARTED",
+    "code":  "WORKER_STARTED",
+    "message":  "Controlled Codex Worker started for the saved Director brief.",
     "needsHuman":  false
 }
