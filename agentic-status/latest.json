@@ -1,10 +1,10 @@
 {
-    "updatedAt":  "2026-08-07T14:49:28.6715639Z",
+    "updatedAt":  "2026-08-07T14:50:22.4321863Z",
     "sessionId":  "SYSTEM_LIVE_001",
     "iteration":  0,
-    "state":  "WAITING_FOR_DIRECTOR",
-    "stage":  "ARMED",
-    "code":  "SYSTEM_HARNESS_ARMED",
-    "message":  "One supervised one-cycle system harness is armed.",
-    "needsHuman":  false
+    "state":  "STOPPED_ERROR",
+    "stage":  "ARMING",
+    "code":  "BRAVE_WATCHER_NOT_CONNECTED",
+    "message":  "Brave watcher is not polling the Cursor listener; no live round trip started.",
+    "needsHuman":  true
 }
