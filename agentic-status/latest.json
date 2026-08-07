@@ -1,1 +1,1 @@
-{"updatedAt":"2026-08-07T18:38:57.8999059Z","sessionId":"SYSTEM_LIVE_003","iteration":1,"state":"SYSTEM_ARMED","stage":"SYSTEM_ARMED","code":"SYSTEM_ARMED","message":"System session SYSTEM_LIVE_003 armed for cycle 1 of 1.","needsHuman":false}
+{"updatedAt":"2026-08-07T18:40:03.0016572Z","sessionId":"SYSTEM_LIVE_003","iteration":0,"state":"SYSTEM_ARMED","stage":"SYSTEM_ARMED","code":"SYSTEM_ARMED","message":"SYSTEM_LIVE_003 armed for one delivery-acknowledged cycle; awaiting GPT ignition.","needsHuman":false}
